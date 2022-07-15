@@ -1,0 +1,6 @@
+MAS masman {
+
+    environment: masman_env.MasmanEnv
+
+    agents: pacman; blinky; pinky; inky; clyde;
+}
